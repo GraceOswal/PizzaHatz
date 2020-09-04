@@ -1,5 +1,5 @@
 # PizzaHatz
-# PizzHatz!
+
 [Check it out](https://github.com/GraceOswal/PizzaHatz.git)
 
 
