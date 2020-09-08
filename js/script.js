@@ -102,7 +102,7 @@ totalPrice = (price * number) + 100;
 
 totalPrice = (price * number) + 150;
 
-} else if (crust === "bread") {
+} else if (crust === "flatbread") {
 
 totalPrice = (price * number) + 180;
 
@@ -134,7 +134,7 @@ totalPrice = (price * number) + 100;
 
 totalPrice = (price * number) + 150;
 
-} else if (crust === "bread") {
+} else if (crust === "flatbread") {
 
 totalPrice = (price * number) + 180;
 
@@ -158,7 +158,7 @@ totalPrice = (price * number) + 100;
 
 totalPrice = (price * number) + 150;
 
-} else if (crust === "bread") {
+} else if (crust === "flatbread") {
 
 totalPrice = (price * number) + 180;
 
@@ -214,7 +214,7 @@ totalPrice = (price * number) + 100;
 
 totalPrice = (price * number) + 150;
 
-} else if (crust === "bread") {
+} else if (crust === "flatbread") {
 
 totalPrice = (price * number) + 180;
 
@@ -238,7 +238,7 @@ totalPrice = (price * number) + 100;
 
 totalPrice = (price * number) + 150;
 
-} else if (crust === "bread") {
+} else if (crust === "flatbread") {
 
 totalPrice = (price * number) + 180;
 
@@ -318,7 +318,7 @@ totalPrice = (price * number) + 100;
 
 totalPrice = (price * number) + 150;
 
-} else if (crust === "bread") {
+} else if (crust === "flatbread") {
 
 totalPrice = (price * number) + 180;
 
@@ -342,7 +342,7 @@ totalPrice = (price * number) + 100;
 
 totalPrice = (price * number) + 150;
 
-} else if (crust === "bread") {
+} else if (crust === "flatbread") {
 
 totalPrice = (price * number) + 180;
 
@@ -374,7 +374,7 @@ totalPrice = (price * number) + 100;
 
 totalPrice = (price * number) + 150;
 
-} else if (crust === "bread") {
+} else if (crust === "flatbread") {
 
 totalPrice = (price * number) + 180;
 
@@ -398,7 +398,7 @@ totalPrice = (price * number) + 100;
 
 totalPrice = (price * number) + 150;
 
-} else if (crust === "bread") {
+} else if (crust === "flatbread") {
 
 totalPrice = (price * number) + 180;
 
@@ -454,7 +454,7 @@ totalPrice = (price * number) + 100;
 
 totalPrice = (price * number) + 150;
 
-} else if (crust === "bread") {
+} else if (crust === "flatbread") {
 
 totalPrice = (price * number) + 180;
 
@@ -478,7 +478,7 @@ totalPrice = (price * number) + 100;
 
 totalPrice = (price * number) + 160;
 
-} else if (crust === "bread") {
+} else if (crust === "flatbread") {
 
 totalPrice = (price * number) + 180;
 
@@ -558,7 +558,7 @@ totalPrice = (price * number) + 100;
 
 totalPrice = (price * number) + 150;
 
-} else if (crust === "bread") {
+} else if (crust === "flatbread") {
 
 totalPrice = (price * number) + 180;
 
@@ -582,7 +582,7 @@ totalPrice = (price * number) + 120;
 
 totalPrice = (price * number) + 190;
 
-} else if (crust === "bread") {
+} else if (crust === "flatbread") {
 
 totalPrice = (price * number) + 150;
 
@@ -614,7 +614,7 @@ totalPrice = (price * number) + 150;
 
 totalPrice = (price * number) + 180;
 
-} else if (crust === "bread") {
+} else if (crust === "flatbread") {
 
 totalPrice = (price * number) + 200;
 
