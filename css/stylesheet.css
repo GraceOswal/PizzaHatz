@@ -74,7 +74,7 @@ figcaption {
 }
 
 .contacts {
-    background-image: url("../images/sec/b1.jpg");
+    background-image: url("../images/pizzabg.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -173,7 +173,7 @@ h4 {
 
 .menu {
     margin-top: 30px;
-    background-image: url("../images/sec/b4.jpg");
+    background-image: url("../images/pizzahatz_img.png");
     padding: 0;
 }
 
@@ -215,7 +215,7 @@ figure img {
 
 /*Background pic*/
 .landing {
-    background-image: url("../images/pizzabg.jpeg");
+    background-image: url("../images/chef-cartoon.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
